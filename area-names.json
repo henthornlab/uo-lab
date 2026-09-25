@@ -1,0 +1,19 @@
+{
+  "000": ["Facilities", "Control Room"],
+  "100": ["Filterpress", "Filter Press"],
+  "150": ["Reverse Osmosis", "RO"],
+  "200": ["Distillation Column", "Corning Column"],
+  "250": ["Agitated Tank", "Agitated Tank Heat Exchanger"],
+  "300": ["Fluid Flow", "FF"],
+  "400": ["Instrumentation and Control", "INST CONTROL"],
+  "450": ["Tank Draining", "Tank Draining Control"],
+  "500": ["Tubular Reactor", "Tubular Flow Reactor"],
+  "525": ["Process Analytics Testbed", "Process Analytics"],
+  "550": ["Packed Bed", "Packed Bed Reactor"],
+  "600": ["Jacketed Tank", "Jacketed Tank Heat Exchanger"],
+  "650": ["Cooling Tower", "Cooling Tower Heat Exchanger"],
+  "700": ["Pumps", "Pumps and Control"],
+  "750": ["Tray Dryer", "Tray Drier"],
+  "800": ["Multipass Heat Exchanger", "Multipass"],
+  "900": ["Fluidized Bed", "Fluidized Bed Reactor"]
+}
