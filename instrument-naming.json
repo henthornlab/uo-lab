@@ -27,5 +27,6 @@
   "FIT": "Flow transmitter with indicator",
   "FIC": "Flow indicator with control",
   "CE": "Conductivity element",
+  "MC": "Motor Controller",
   "DPIC": "Differential pressure controller with indicator"
 }
